@@ -32,7 +32,7 @@ while (not boo1):
     try:
         boo1 = tentaSorteio(boo1)
     except:
-        ft = []
+        fT = []
         lNomes2 = nomes.split(', ')
         
 for i in range (len(lNomes)):
